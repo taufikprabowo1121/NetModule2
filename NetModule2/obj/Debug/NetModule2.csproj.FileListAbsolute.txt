@@ -1,0 +1,6 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModule2\NetModule2\bin\Debug\NetModule2.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModule2\NetModule2\obj\Debug\NetModule2.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModule2\NetModule2\bin\Debug\NetModule2.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModule2\NetModule2\bin\Debug\NetModule2.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModule2\NetModule2\obj\Debug\NetModule2.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModule2\NetModule2\obj\Debug\NetModule2.pdb
